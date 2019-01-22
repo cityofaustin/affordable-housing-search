@@ -1,0 +1,1 @@
+mapbox_public_key='pk.eyJ1IjoiY3RtLWNsb3VkIiwiYSI6ImNqcTVjYzI5bzBnOWE0M3A5eDl0ODhwZG4ifQ.bmSyer3KjFr4n-wdK9WOvQ';
